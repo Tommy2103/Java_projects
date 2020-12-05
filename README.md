@@ -1,7 +1,7 @@
 # Java_projects
-projects based on java
+Projects based on java
 
 # Frazioni
-in the folder frazioni there is the file Frazioni.java with the respective public class.  
-there is also the html files for the documentation, to see it just open index.html.  
-the file Main.java is an example of the usage of the Frazioni class.
+In the folder frazioni there is the file Frazioni.java with the respective public class.  
+There is also the html files for the documentation, to see it just open index.html.  
+The file Main.java is an example of the usage of the Frazioni class.
